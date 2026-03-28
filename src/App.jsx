@@ -371,7 +371,7 @@ export default function App() {
       <div style={{ padding: "20px 20px 0", display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
         <div>
           <div style={{ fontSize: 11, color: "#ffffff30", letterSpacing: 3, textTransform: "uppercase", marginBottom: 2 }}>Paper Trading</div>
-          <div style={{ fontSize: 24, fontWeight: 800, letterSpacing: -1, background: "linear-gradient(135deg,#60A5FA,#A78BFA)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>TradeX</div>
+          <div style={{ fontSize: 24, fontWeight: 800, letterSpacing: -1, background: "linear-gradient(135deg,#60A5FA,#A78BFA)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" }}>Aryan Trade App</div>
         </div>
         <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 6 }}>
           <div style={{ display: "flex", alignItems: "center", gap: 5, background: "#0F1724", border: `1px solid ${liveStatus === "live" || liveStatus === "partial" ? "#34d39920" : "#ffffff10"}`, borderRadius: 20, padding: "4px 10px" }}>
